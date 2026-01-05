@@ -4,17 +4,17 @@
  * Lớp:       [ĐIỀN LỚP TẠI ĐÂY]
  *****************************************************************************/
 
- // Danh sách các chức năng trong ASM1:
-//1. Chức năng số 1: Kiểm tra số nguyên
-//2. Chức năng số 2. Tìm Ước số chung và bội số chung của 2 số 
-//3. Chức năng số 3: Chương trình tính tiền cho quán Karaoke
-//4. Chức năng số 4: Tính tiền điện 
-//5. Chức năng số 5: Chức năng đổi tiền 
-//6. Chức năng số 6: Xây dựng chức năng tính lãi suất vay ngân hàng vay trả góp 
-//7. Chức năng số 7: Xây dựng chương trình vay tiền mua xe
-//8. Chức năng số 8: Sắp xếp thông tin sinh viên
-//9. Chức năng số 9: Xây dựng game FPOLY-LOTT
-//10. Chức năng số 10: Xây dựng chương trình tính toán phân số 
+// Danh sách các chức năng trong ASM1:
+// 1. Chức năng số 1: Kiểm tra số nguyên
+// 2. Chức năng số 2. Tìm Ước số chung và bội số chung của 2 số 
+// 3. Chức năng số 3: Chương trình tính tiền cho quán Karaoke
+// 4. Chức năng số 4: Tính tiền điện 
+// 5. Chức năng số 5: Chức năng đổi tiền 
+// 6. Chức năng số 6: Xây dựng chức năng tính lãi suất vay ngân hàng vay trả góp 
+// 7. Chức năng số 7: Xây dựng chương trình vay tiền mua xe
+// 8. Chức năng số 8: Sắp xếp thông tin sinh viên
+// 9. Chức năng số 9: Xây dựng game FPOLY-LOTT
+// 10. Chức năng số 10: Xây dựng chương trình tính toán phân số 
 // Viết chương trình C thực hiện các chức năng trên
 
 #include <stdio.h>
