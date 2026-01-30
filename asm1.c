@@ -4,6 +4,9 @@
  * Lớp:       [ĐIỀN LỚP TẠI ĐÂY]
  *****************************************************************************/
 
+// Tạo file asm2.c và hoàn thiện nội dung Assignment từ nội dung file asm1.c
+
+
 // Danh sách các chức năng trong ASM1:
 // 1. Chức năng số 1: Kiểm tra số nguyên
 // 2. Chức năng số 2. Tìm Ước số chung và bội số chung của 2 số 
